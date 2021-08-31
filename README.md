@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**othomation/othomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm *otho*. I do the tech.
 
-Here are some ideas to get you started:
+Working in a french SCSC with a diverse stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to speak to me if you're searching for one day per week freelance.
+
+- 🔭 I’m currently working on **secret**
+- 🌱 I’m currently learning TDD and the Symfony framework.
+- 👯 I’m looking to collaborate on a TwitchTV integration on VR Chat.
+- 💬 Ask me about **anything**
+- 📫 How to reach me: **contact@otho.bike**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like my snacks a little mold. Yup.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othomation)](https://github.com/anuraghazra/github-readme-stats)
+
