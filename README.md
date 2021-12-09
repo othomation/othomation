@@ -6,7 +6,7 @@ Working in a french SCSC with a diverse stack.
 
 Feel free to speak to me if you're searching for one day per week freelance.
 
-- 🔭 I’m currently working on **secret**
+- 🔭 I’m currently working on **Rizomo** (SNAP/DINUM) and **Jitsi**
 - 🌱 I’m currently learning TDD and the ~~Symfony framework~~.
 - 🌱 Also discovering React & Meteor for work projects.
 - 👯 I’m looking to collaborate on a TwitchTV integration on VR Chat.
