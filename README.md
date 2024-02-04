@@ -2,9 +2,10 @@
 
 I'm *otho*. I do the tech.
 
-Feel free to speak to me if you're searching for one day per week remote freelance.
+Feel free to speak to me if you need a freelance dev!
 
-- Currently working at **Airweb** doing back-end stuff.
+- **Currently freelancing the freelancing life.**
+- ~~Currently working at **Airweb** doing back-end stuff.~~
 - ~~🔭 I’m currently working on **Rizomo** (SNAP/DINUM) and **Jitsi**~~
 - 🌱 I’m currently learning TDD and the ~~Symfony framework~~.
 - 🌱 Also discovering React & Meteor for work projects.
